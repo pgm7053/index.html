@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>**paloma murillo**</title>
+  </head>
+  <body>
+    <h1>Intro to Web Design and Computer Principles</h1>
+    <p>**Your self introduction goes here**</p>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>Raster</li>
+      <li>Vector</li>
+      <li>Layout</li>
+      <li>Responsive Design</li>
+      <li>Javascript</li>
+      <li>Final Project</li>
+    </ul>
+  </body>
+</html>
